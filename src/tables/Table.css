@@ -1,0 +1,19 @@
+tr,
+td,
+th {
+  border: 1px solid;
+  border-collapse: collapse;
+  border-color: black;
+  font-size: 8px;
+}
+
+tbody {
+  background-color: lightsalmon;
+  font-weight: 500;
+}
+thead {
+  background-color: green;
+}
+td {
+  background-color: aliceblue;
+}
